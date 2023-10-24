@@ -1,0 +1,106 @@
+{
+  "type": "custom.menu",
+  "name": "Navigation",
+  "sections": {
+    "menu": {
+      "type": "menu",
+      "settings": {
+        "title": "Collections",
+        "menu_parent": "none",
+        "menu_type": "list"
+      }
+    },
+    "c7510f63-1b7b-4bd7-bdf7-973eb3bc20e2": {
+      "type": "menu",
+      "blocks": {
+        "sections--16208164454551__c7510f63-1b7b-4bd7-bdf7-973eb3bc20e2-menu-item-1": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Gryffindor",
+            "link": "shopify:\/\/collections\/frontpage",
+            "image": "shopify:\/\/shop_images\/photo-1539718110656-942f6db1bfa0.jpeg"
+          }
+        },
+        "bc8c83c9-fdd6-4708-8edb-611d079f4de9": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Hufflepuff",
+            "link": "shopify:\/\/collections\/auto-t-shirts",
+            "image": "shopify:\/\/shop_images\/photo-1539712112688-99d7315f29ca.jpeg"
+          }
+        },
+        "29d529d3-c1c9-49d5-9b37-8b40c3e709d9": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Ravenclaw",
+            "link": "shopify:\/\/collections",
+            "image": "shopify:\/\/shop_images\/photo-1535443274868-756b0f070b6e.jpeg"
+          }
+        },
+        "49e18d14-9ea4-4124-b44b-4fc48a7a5a85": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Slytherin",
+            "link": "shopify:\/\/collections\/auto-t-shirts",
+            "image": "shopify:\/\/shop_images\/photo-1539718110656-942f6db1bfa0.jpeg"
+          }
+        }
+      },
+      "block_order": [
+        "sections--16208164454551__c7510f63-1b7b-4bd7-bdf7-973eb3bc20e2-menu-item-1",
+        "bc8c83c9-fdd6-4708-8edb-611d079f4de9",
+        "29d529d3-c1c9-49d5-9b37-8b40c3e709d9",
+        "49e18d14-9ea4-4124-b44b-4fc48a7a5a85"
+      ],
+      "settings": {
+        "title": "Houses",
+        "menu_parent": "collections",
+        "menu_type": "list"
+      }
+    },
+    "bcac6982-771f-42a4-8d27-8da9d420cb39": {
+      "type": "menu",
+      "blocks": {
+        "sections--16208164454551__bcac6982-771f-42a4-8d27-8da9d420cb39-menu-item-1": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Trunks",
+            "link": "shopify:\/\/collections\/auto-t-shirts",
+            "image": "shopify:\/\/shop_images\/rabbit_mybutthurts.jpg"
+          }
+        },
+        "29b0a352-3dc1-467c-9845-47b5719a0650": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Clothing",
+            "link": "shopify:\/\/collections\/frontpage",
+            "image": "shopify:\/\/shop_images\/corgi_sitstand_m.jpg"
+          }
+        },
+        "b96c8466-afc1-438d-a7b6-e39498ca6860": {
+          "type": "menu-item",
+          "settings": {
+            "text": "Robes",
+            "link": "shopify:\/\/collections\/auto-t-shirts",
+            "image": "shopify:\/\/shop_images\/Tshirt_Prinkshop_Arts_Black_1080x1380_large_ffe90ad2-a5ee-4e78-8c96-4e1a31050bee.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "sections--16208164454551__bcac6982-771f-42a4-8d27-8da9d420cb39-menu-item-1",
+        "29b0a352-3dc1-467c-9845-47b5719a0650",
+        "b96c8466-afc1-438d-a7b6-e39498ca6860"
+      ],
+      "settings": {
+        "title": "Personalisation",
+        "menu_parent": "collections",
+        "menu_type": "list"
+      }
+    }
+  },
+  "order": [
+    "menu",
+    "c7510f63-1b7b-4bd7-bdf7-973eb3bc20e2",
+    "bcac6982-771f-42a4-8d27-8da9d420cb39"
+  ]
+}
